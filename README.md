@@ -30,7 +30,7 @@ Visit the official site of [postman](https://www.postman.com/downloads/) and dow
 - Clone the repo
 
 ```bash
-git clone https://github.com/MagdielPm/backend-libros-app
+git clone https://github.com/AndreiTorres/backend_bookstore.git
 ```
 
 - Install the dependencies
